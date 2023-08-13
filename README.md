@@ -1,6 +1,6 @@
 # Welcome To My Github <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-![readmebox](https://raw.githubusercontent.com/anonkyuhuu/anonkyuhuu/cb4287bcd2e6559b8509351e4173f98dcf32aa58/assets/readmebox.svg)
+
 [![@anonkyuhuu's Holopin board](https://holopin.io/api/user/board?user=anonkyuhuu)](https://holopin.io/@anonkyuhuu)
 
 <p align="center">
